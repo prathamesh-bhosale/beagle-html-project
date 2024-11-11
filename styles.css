@@ -1,0 +1,94 @@
+/* normaL BODY Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+}
+
+/* Blog Header Section */
+.blog-header {
+    margin-bottom: 30px;
+    border :solid 1px black;
+    padding: 20px;
+}
+
+.blog-header h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.blog-header p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.read-more:hover {
+    text-decoration: underline;
+}
+
+/* Images Section */
+.images-section {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.images-section h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.beagle-image {
+    width: 50%;
+    height: auto;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.more-images {
+    display: inline-block;
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.more-images:hover {
+    text-decoration: underline;
+}
+
+/* Trivia Section */
+.trivia-section {
+    padding: 20px;
+    
+}
+.trivia-section h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.trivia-section ol {
+    
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
